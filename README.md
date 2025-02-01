@@ -2,7 +2,7 @@
 
 📌 Description
 
-This project is a Flask-based web application that simulates a car race using Object-Oriented Programming (OOP) principles in Python. Different types of cars (sports cars, trucks, and sedans) compete in a race, and the results are displayed dynamically in a web browser.
+This project is a Flask-based web application that simulates a car race using Object-Oriented Programming (OOP) principles in Php. Different types of cars (sports cars, trucks, and sedans) compete in a race, and the results are displayed dynamically in a web browser.
 
 📂 Features
 
